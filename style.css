@@ -1,0 +1,11 @@
+body {
+	background-image: url('bubbles.bmp');
+	text-align: center;
+}
+h1, h2, h4 {
+	color: cyan;
+}
+.tab {
+	color: cyan;
+	border: 2px solid white;
+}
